@@ -4,6 +4,7 @@ export const Tela = () => {
         <View style={styles.container}>
             <View style={styles.statusBar}/>
                 <Text style={styles.statusBarText}>   Tudo       Desenhos       Outfit       Flores       Wallpaper❤️ </Text>
+                
             <View/>
             <View style={styles.imageContainer}>
             <Image 
@@ -28,6 +29,7 @@ export const Tela = () => {
     }} />
 
     </View>
+    <View style={styles.footer} />
         </View>
     )
 }
@@ -59,7 +61,7 @@ const styles = StyleSheet.create({
         width: "100%",
         height: 60,
         backgroundColor: "#0f1111",
-        zIndex: 1
+        zIndex: 1,
     },
     imageContainer: {
         flex:1,
