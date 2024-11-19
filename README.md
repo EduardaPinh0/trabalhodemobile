@@ -11,7 +11,7 @@ React Native: Framework para construção do aplicativo, ideal para desenvolvime
 
 TypeScript: Linguagem de programação usada para maior segurança e eficiencia.
 
-Expo: Plataforma para desenvolvimento de aplicativos React Native.
+Expo: Plataforma para desenvolvimento de aplicativos.
 
 **Estrutura do Projeto**
 
@@ -19,7 +19,7 @@ App.tsx: Ponto de partida do aplicativo, onde a tela principal é chamada.
 
 Tela.tsx: Define a estrutura e o layout da tela, incluindo barra de status, contêiner de imagens e rodapé.
 
-Estilos: Utiliza o StyleSheet do React Native para aplicar estilos aos componentes de forma consistente.
+Estilos: Utiliza o StyleSheet para aplicar estilos aos componentes de forma consistente.
 
 **Conclusão**
 
