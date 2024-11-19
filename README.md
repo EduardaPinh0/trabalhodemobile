@@ -2,7 +2,7 @@
 
 **Sobre o Projeto**
 
-Este projeto demonstra como criar uma tela usando React Native. Ele inclui imagens, uma barra de status e um rodapé.
+Este projeto demonstra como criar uma tela do Pinterest usando React Native. Ele inclui imagens, uma barra de status e um rodapé.
 A ideia principal é ilustrar como estilizar esses elementos dentro de um aplicativo.
 
 **Tecnologias Utilizadas**
